@@ -30,3 +30,7 @@ body{
     text-align: center;
     color: black;
 }
+.certificate-body{
+    text-align: center;
+    position: relative;
+ }
